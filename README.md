@@ -38,6 +38,7 @@ The dashboard provides clear and interactive visuals that highlight key business
 
 You can view or download the dashboard using the link below:
 
-[Download Dashboard](<insert-your-sharing-link-here>)
+[Download Dashboard](Coffee%20shop%20sales%20dashboard.xlsx)
+
 
 
